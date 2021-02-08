@@ -7,7 +7,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=themadnesstony.themadnesstony)
 
 ## About
-Hi, I am madnesstony, Software Engineer from Moscow, Russia.
+Hi, I'm Eugene, Software Engineer from Moscow, Russia.
 
 
 ## Skills
