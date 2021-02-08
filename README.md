@@ -3,7 +3,8 @@
 <a href="https://open.spotify.com/user/4uhibj284xvksti7q1x8zmhak?si=rEKNqogvSHuT5bo0Zf6Ing">
   <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=themadnesstony.visitor-badge.themadnesstony)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=themadnesstony.themadnesstony)
 
 ## About
 Hi, I am madnesstony, Software Engineer from Moscow, Russia.
