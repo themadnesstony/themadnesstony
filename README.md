@@ -5,10 +5,9 @@
 </a>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=themadnesstony.visitor-badge.themadnesstony)
 
-```bash
-$ about
+## About
 Hi, I am madnesstony, Software Engineer from Moscow, Russia.
-```
+
 
 ## Skills
 
