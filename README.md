@@ -10,7 +10,8 @@
 Hi, I'm Eugene, Software Engineer from Moscow, Russia.
 
 
-## Skills
+<details>
+	<summary>Skills</summary>
 
 ![HTML5](https://img.shields.io/badge/-HTML-E35026?logo=html5&style=for-the-badge&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-Css-1572B6?logo=css3&style=for-the-badge&logoColor=white)
@@ -39,11 +40,15 @@ Hi, I'm Eugene, Software Engineer from Moscow, Russia.
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&style=for-the-badge&logoColor=white)
 ![WebGL](https://img.shields.io/badge/-WebGL-990000?logo=webgl&style=for-the-badge&logoColor=white)
 
-## OS & Tools
+</details>
+
+---
+
+<details>
+	<summary>OS & Tools</summary>
 
 ![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=for-the-badge&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
-
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
 
@@ -54,17 +59,18 @@ Hi, I'm Eugene, Software Engineer from Moscow, Russia.
 ![Mocha](https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&style=for-the-badge&logoColor=white)
 ![PostCSS](https://img.shields.io/badge/-PostCSS-DD3A0A?logo=postcss&style=for-the-badge&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&style=for-the-badge&logoColor=black)
-
 ![VSCode](https://img.shields.io/badge/-VSCode-0379CB?logo=Visual%20Studio%20Code&style=for-the-badge&logoColor=white)
 ![vim](https://img.shields.io/badge/-vim-019733?logo=Vim&style=for-the-badge&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&style=for-the-badge&logoColor=white)
-
 ![Adobe_Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe%20photoshop&style=for-the-badge&logoColor=white)
 ![Adobe_Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe%20illustrator&style=for-the-badge&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&style=for-the-badge&logoColor=white)
-
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&style=for-the-badge&logoColor=white)
 ![RasberryPi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberry%20pi&style=for-the-badge&logoColor=white)
+	
+</details>
+
+---
 
 ## Stats
 
